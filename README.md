@@ -1,1 +1,1 @@
-# Product-Management-System
+# Stock-Management-System
