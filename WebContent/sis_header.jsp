@@ -2,7 +2,7 @@
 <%@page import="sis.com.producttracking.bo.User"%>
 <html>
 <head>
-<title>SiS Product Tracking</title>
+<title>Stock Management System</title>
 <link rel="shortcut icon" href="images/sis.ico">
 <link rel="stylesheet" href="css/sis.css">
 <script type="text/javascript" src="js/sis.js"></script>
